@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Calculadora-de-IMC",
+      "image": "./assets/Calculadora de IMC.jpeg",
+      "tags": ["Javascript", "HTML", "CSS"],
+      "link": "https://github.com/Baycad/Calculador-de-IMC"
+    },
+      {
+      "name": "Gerador-de-pixel-art",
+      "image": "./assets/Gerador de Pixel-Art.jpeg",
+      "tags": ["Javascript", "HTML", "CSS"],
+      "link": "https://github.com/Baycad/Gerador-de-pixel-art"
+    },
+      {
+      "name": "Timer",
+      "image": "./assets/Timer.jpeg",
+      "tags": ["Javascript", "HTML", "CSS"],
+      "link": "https://github.com/Baycad/Timer"
+    },
+    {
+        "name": "Site-do-filme-da-Barbie",
+        "image": "./assets/Barbie.jpeg",
+        "tags": ["HTML", "CSS", "Animação"],
+        "link": "https://github.com/Baycad/Site-Barbie"
+    },
+    {
+        "name": "Shorts-Summary",
+        "image": "./assets/Short Summary.jpeg",
+        "tags": ["HTML", "Javascript", "Inteligência-Artificial"],
+        "link": "https://github.com/Baycad/Shorts-Summary"
+    }
+  ]

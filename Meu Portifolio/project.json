@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Calculadora-de-IMC",
+      "image": "./assets/Calculadora de IMC.jpeg",
+      "tags": ["Javascript", "HTML", "CSS"],
+      "link": "https://calculadora-de-imc-lucasguerra.netlify.app"
+    },
+      {
+      "name": "Gerador-de-pixel-art",
+      "image": "./assets/Gerador de Pixel-Art.jpeg",
+      "tags": ["Javascript", "HTML", "CSS"],
+      "link": "https://gerador-de-pixel-art-lucasguerra.netlify.app"
+    },
+      {
+      "name": "Timer",
+      "image": "./assets/Timer.jpeg",
+      "tags": ["Javascript", "HTML", "CSS"],
+      "link": "https://timer-lucas-guerra.netlify.app"
+    },
+    {
+        "name": "Site-do-filme-da-Barbie",
+        "image": "./assets/Barbie.jpeg",
+        "tags": ["HTML", "CSS", "Animação"],
+        "link": "https://site-barbie.netlify.app"
+    },
+    {
+        "name": "Shorts-Summary",
+        "image": "./assets/Short Summary.jpeg",
+        "tags": ["HTML", "Javascript", "Inteligência-Artificial"],
+        "link": "https://shorts-summary-lucasguerra.netlify.app"
+    }
+  ]

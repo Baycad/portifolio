@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucas de Souza Guerra</title>
+    <link rel="stylesheet" href="/styles/global.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+    <!-- Script AOS - Animações -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="app">
+        <section class="card user"
+        data-aos="fade-right"
+        data-aos-durations="800"
+        data-aos-easing="ease-in-out"
+    >
+            <picture>
+                <img src="./assets/Avatar.jpeg" alt="">
+            </picture>
+
+            <div class="user_content">
+                <h1>Lucas de Souza Guerra</h1>
+
+                <p>Desenvolvedor Front-End</p>
+
+                <div class="social">
+                    <a href="https://github.com/Baycad" class="social_link" target="_blank">
+                        <i class="ph ph-github-logo"></i>
+                    </a>
+
+                    <a href="https://twitter.com/_lucas_guerra" class="social_link" target="_blank">
+                        <i class="ph ph-twitter-logo"></i>
+                    </a>
+
+                    <a href="https://www.instagram.com/_lucas_guerra__/" class="social_link" target="_blank">
+                        <i class="ph ph-instagram-logo"></i>
+                    </a>
+
+                </div>
+            </div>
+        </section>
+        <section class="card about"
+        data-aos="fade-left"
+        data-aos-durations="800"
+        data-aos-easing="ease-in-out"
+        >
+            <h2 class="subtitle">Sobre</h2>
+
+            <p>Estudante da Universidade Católica de Brasília (UCB), atualmente no segundo semestre.
+                Estou estudando atualmente Javascript, Java e C. Gosto de me aventurar no mundo da tecnologia e da
+                computação.
+                Gosto bastante da área de Front porém tenho vontade de aprender Back-End também.
+            </p>
+
+            <p>
+                Gosto de produzir músicas em geral, principalmente do gênero do Trap. Mas produzo de tudo um pouco. Aqui
+                está o meu canal para
+                quem se interessar: <a href="https://www.youtube.com/@lurranonthetrack" target="_blank">Canal do
+                    Youtube</a>
+            </p>
+
+            <p>Meus amigos me chamam de Fofin</p>
+        </section>
+
+        <section class="card projects"
+        data-aos="fade-up"
+        data-aos-durations="800"
+        data-aos-easing="ease-in-out"
+        >
+            <h2 class="subtitle">Projetos</h2>
+            <div id="project_content">
+
+            </div>
+
+        </section>
+    </div>
+
+    <script src="./scripts/index.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script>
+        AOS.init({ once: true })
+    </script>
+</body>
+
+</html>
